@@ -15,6 +15,5 @@ redirect_from:
 <iframe height="400px" width="100%" src="https://repl.it/@Z_AID/TrimNewDeclaration?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 <iframe height="400px" width="100%" src="https://repl.it/@Z_AID/SpectacularBeigeCharacterset?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 <iframe height="400px" width="100%" src="https://repl.it/@ImTheClay/twentyQuestions?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
-https://repl.it/@Z_AID/largest-four
-https://repl.it/@Z_AID/Cookie
-https://repl.it/@Z_AID/Magic8BallTemplate
+<iframe height="400px" width="100%" src="https://repl.it/@Z_AID/largest-four?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+<iframe height="400px" width="100%" src="https://repl.it/@Z_AID/Cookie?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals">
