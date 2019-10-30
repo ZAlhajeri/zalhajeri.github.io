@@ -8,15 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-<b>AP Computer Science Principles</b> is an introductory college-level computing course. Students cultivate their understanding of computer science through working with data, collaborating to solve problems, and developing computer programs as they explore concepts like creativity, abstraction, data and information, algorithms, programming, the internet, and the global impact of computing.
-
-I have created this website as a template to demonstrate how students can easily create portfolios to showcase work for AP CSP. Better yet, students can create QR codes that link to their portfolio pages. Display your students' QR codes in your classroom for easy access. Try it out by holding your phone's camera up to the QR code below:
-
 ![Schenk QR Code](/images/zaidQR.png)
 
-<b> Steps </b>
-1. <b>Fork</b> [this repository](https://github.com/CodeCSMB/codecsmb.github.io)  to create the template for your portfolio by clicking the "fork" button in the top right.
-2. Go to the repository's <b>settings</b> (rightmost item in the tabs that start with "Code", should be below "Unwatch"). <b>Rename the repository</b> "[your GitHub username].github.io", which will also be your website's URL.
-3. Set site-wide configuration and create content & metadata by editing <b>_config.yml</b> (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-4. <b>Upload</b> any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-
+<b> Projects </b>
+<iframe height="400px" width="100%" src="https://repl.it/@LiamKeaggy/chooseYourOwnAdventure?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+<iframe height="400px" width="100%" src="https://repl.it/@Z_AID/TrimNewDeclaration?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+<iframe height="400px" width="100%" src="https://repl.it/@Z_AID/SpectacularBeigeCharacterset?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+<iframe height="400px" width="100%" src="https://repl.it/@ImTheClay/twentyQuestions?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+https://repl.it/@Z_AID/largest-four
+https://repl.it/@Z_AID/Cookie
+https://repl.it/@Z_AID/Magic8BallTemplate
