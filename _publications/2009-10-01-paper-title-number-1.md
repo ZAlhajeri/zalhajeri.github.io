@@ -1,15 +1,16 @@
----
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+<iframe height="400px" width="100%" src="https://repl.it/@LiamKeaggy/chooseYourOwnAdventure?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+<iframe height="400px" width="100%" src="https://repl.it/@Z_AID/TrimNewDeclaration?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+
+<iframe height="400px" width="100%" src="https://repl.it/@ImTheClay/twentyQuestions?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+
+[Count YZ](https://repl.it/@Z_AID/CountYZ)
+[ABCEDARIAN TEST](https://repl.it/@Z_AID/ABCEDARIAN-TEST)
+[Print Backwards](https://repl.it/@Z_AID/PrintBackwards)
+[Print In Between](https://repl.it/@Z_AID/PrintBetween)
+[Average](https://repl.it/@Z_AID/Average)
+[Guessing Game](https://repl.it/@Z_AID/Guessing-Game)
+[Largest of 4](https://repl.it/@Z_AID/largest-four)
+[Cookie Counter](https://repl.it/@Z_AID/Cookie)
+[Magic 8 Ball](https://repl.it/@Z_AID/Magic8BallTemplate)
